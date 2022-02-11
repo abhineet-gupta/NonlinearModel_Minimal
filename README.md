@@ -6,9 +6,10 @@ The scripts save the linearized models in the the structure named 'simulink_6dof
 
 Refer to the following thesis for further details on the simulation model.
 ```
-@article{gupta2019flight,  
-    title={Flight Dynamics Model of A Small Flexible Aircraft},  
-    author={Gupta, Abhineet},  
-    year={2019}  
+@phdthesis{gupta2019flight,
+  title={Flight Dynamics Model of a Small Flexible Aircraft},
+  author={Gupta, Abhineet},
+  year={2019},
+  school={University of Minnesota}
 }
 ```
